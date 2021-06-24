@@ -4,4 +4,4 @@ from django.shortcuts import render, HttpResponse
 
 
 def homePageView(request):
-	return HttpResponse('Hello word from django!')
+	return HttpResponse('Hello word from django desde rama!')
